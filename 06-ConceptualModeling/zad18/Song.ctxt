@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Song
+comment1.params=name\ author\ genre\ duration
+comment1.target=Song(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ displayInfo()
+comment3.params=
+comment3.target=void\ play()
+comment4.params=
+comment4.target=void\ pause()
+comment5.params=
+comment5.target=void\ stop()
+comment6.params=d
+comment6.target=void\ rewind(int)
+comment7.params=d
+comment7.target=void\ forward(int)
+numComments=8

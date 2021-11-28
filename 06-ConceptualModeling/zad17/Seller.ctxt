@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Seller
+comment1.params=name\ isCompany\ isVerified\ averageRating\ ratingNo\ offeredProducts
+comment1.target=Seller(java.lang.String,\ boolean,\ boolean,\ double,\ int,\ int)
+comment2.params=
+comment2.target=void\ displayInfo()
+comment3.params=score\ message
+comment3.target=void\ sendReview(int,\ java.lang.String)
+numComments=4

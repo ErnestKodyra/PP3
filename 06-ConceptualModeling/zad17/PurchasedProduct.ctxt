@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PurchasedProduct
+comment1.params=name\ category\ price\ paidFor\ shippingAddress
+comment1.target=PurchasedProduct(java.lang.String,\ java.lang.String,\ double,\ boolean,\ java.lang.String)
+comment2.params=
+comment2.target=void\ displayInfo()
+comment3.params=
+comment3.target=void\ payFor()
+numComments=4
