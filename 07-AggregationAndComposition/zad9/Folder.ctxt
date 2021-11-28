@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Folder
+comment1.params=name\ location
+comment1.target=Folder(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ displayContents()
+comment3.params=name\ size
+comment3.target=void\ addFile(java.lang.String,\ int)
+comment4.params=filename
+comment4.target=void\ removeFile(java.lang.String)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

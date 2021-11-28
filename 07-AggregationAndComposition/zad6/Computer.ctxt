@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Computer
+comment1.params=model\ memorySize\ isOn\ procModel\ architecture\ price\ usage
+comment1.target=Computer(java.lang.String,\ int,\ boolean,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ turnOn()
+comment3.params=
+comment3.target=void\ turnOff()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

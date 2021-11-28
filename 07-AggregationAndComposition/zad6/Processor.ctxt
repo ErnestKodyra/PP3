@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Processor
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=model
+comment2.target=void\ setModel(java.lang.String)
+comment3.params=architecture
+comment3.target=void\ setArchitecture(java.lang.String)
+comment4.params=price
+comment4.target=void\ setPrice(int)
+comment5.params=usage
+comment5.target=void\ setUsage(int)
+numComments=6
