@@ -1,0 +1,31 @@
+Smartphone:
+
+attributes:
+
+- battery life
+- price
+- model
+- Android version
+- screen resolution
+
+behaviors:
+
+- send SMS
+- open browser
+- search with Google
+
+
+Bank account:
+
+attributes:
+
+- owner
+- bank name
+- account type
+- amount of money
+- transaction history
+
+methods:
+- check balance
+- deposit money
+- withdraw money

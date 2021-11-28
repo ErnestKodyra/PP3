@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=statistics
+comment1.params=firstBoundary\ secondBoundary
+comment1.target=void\ ItemNumber(int,\ int)
+comment2.params=firstBoundary\ secondBoundary
+comment2.target=void\ NumberSum(int,\ int)
+comment3.params=firstBoundary\ secondBoundary
+comment3.target=void\ ArithmeticMean(int,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Microwave
+comment1.params=
+comment1.target=java.lang.String\ getModel()
+comment10.params=maxPower
+comment10.target=void\ setMaxPower(int)
+comment2.params=
+comment2.target=java.lang.String\ getManufacturer()
+comment3.params=
+comment3.target=double\ getPrice()
+comment4.params=
+comment4.target=boolean\ getHasDefrosting()
+comment5.params=
+comment5.target=int\ getMaxPower()
+comment6.params=model
+comment6.target=void\ setModel(java.lang.String)
+comment7.params=manufacturer
+comment7.target=void\ setManufacturer(java.lang.String)
+comment8.params=price
+comment8.target=void\ setPrice(double)
+comment9.params=hasDefrosting
+comment9.target=void\ setHasDefrosting(boolean)
+numComments=11
