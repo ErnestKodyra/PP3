@@ -1,20 +1,20 @@
 public class Email extends Message
 {
-    private String address;
+    private User user = new User();
     private String subject;
     
     Email(String text, String address, String subject){
         super(text);
-        this.address = address;
+        user.email = address;
         this.subject = subject;
     }
     
     public void send(){
-        System.out.println("Recipient: " + address + "\nSubject: " + subject + "\nMessage: " + getText());
+        System.out.println("Recipient: " + user.email + "\nSubject: " + subject + "\nMessage: " + getText());
     }
     
     public String getAddress(){
-        return address;
+        return user.email;
     }
     
     public String getSubject(){
@@ -22,7 +22,7 @@ public class Email extends Message
     }
     
     public void setAddress(String address){
-        this.address = address;
+        user.email = address;
     }
     
     public void setSubject(String subject){

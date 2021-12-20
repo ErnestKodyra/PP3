@@ -1,22 +1,22 @@
 public class SMS extends Message
 {
-    private String phoneNo;
+    private User user = new User();
     
     SMS(String text, String phoneNo){
         super(text);
-        this.phoneNo = phoneNo;
+        user.phoneNo = phoneNo;
     }
     
     public void send(){
-        System.out.println("Recipient: " + phoneNo + "\nMessage: " + getText());
+        System.out.println("Recipient: " + user.phoneNo + "\nMessage: " + getText());
     }
     
     public String getPhoneNo(){
-        return phoneNo;
+        return user.phoneNo;
     }
     
     public void setPhoneNo(String phoneNo){
-        this.phoneNo = phoneNo;
+        user.phoneNo = phoneNo;
     }
     
     public static void main(String[] args){

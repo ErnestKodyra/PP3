@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Bus
+comment1.params=maxSpeed\ maxPeople
+comment1.target=Bus(int,\ int)
+comment2.params=
+comment2.target=void\ displayInfo()
+comment3.params=
+comment3.target=void\ drive()
+comment4.params=
+comment4.target=void\ stopDriving()
+numComments=5
